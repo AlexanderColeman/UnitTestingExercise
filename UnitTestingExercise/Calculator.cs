@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 namespace UnitTestingExercise
@@ -61,3 +61,4 @@ namespace UnitTestingExercise
         //*****NOW RUN ALL OF YOUR TESTS*********//
     }
 }
+
